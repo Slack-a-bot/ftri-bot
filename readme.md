@@ -1,0 +1,1 @@
+type "/downloademojis" to save emojis
